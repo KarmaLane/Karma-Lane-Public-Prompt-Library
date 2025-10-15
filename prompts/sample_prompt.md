@@ -1,4 +1,4 @@
-# Sample Prompt: Business Pivot Framework
+# Repeat Prompt: For establishing buisness prompts
 
 **Purpose:**  
 Guide small businesses through designing an AI adoption or pivot strategy.
